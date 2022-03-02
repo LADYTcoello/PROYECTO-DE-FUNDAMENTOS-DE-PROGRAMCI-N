@@ -1,8 +1,11 @@
 # PROYECTO-DE-FUNDAMENTOS-DE-PROGRAMCI-N
+
 # Qué es Python?
 
 # Qué es una variable?
-
+```python
+variable = 8
+```
 ## Nombrando una variable
 
 ## Asignando valores a una variable
@@ -10,11 +13,18 @@
 ## Operadores básicos
 
 ### Suma
+```python
+num1 = 5
+num2 = 7
 
+ print(num1 + num2)
+```
+salida 
+
+    12
 ### Resta
 
-
-#Multiplicación
+### Multiplicación
 
 ### División
 
