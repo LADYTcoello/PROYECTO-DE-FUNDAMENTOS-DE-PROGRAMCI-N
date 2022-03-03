@@ -1,6 +1,6 @@
 cadena = 'programacion'
 for letra in cadena:
-    if letra == 'g':
-        print("Se encontró la g")
+    if letra == 'h':
+        print("Se encontró la h")
         break
     print(letra)
