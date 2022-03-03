@@ -1,4 +1,4 @@
-y = 14
+y = 10
 while True:
     y -= 1
     print(y)
