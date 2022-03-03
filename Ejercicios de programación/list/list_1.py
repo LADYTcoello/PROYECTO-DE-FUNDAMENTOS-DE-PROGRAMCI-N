@@ -1,8 +1,10 @@
-#Escribir un programa que pregunte al usuario los números ganadores de la lotería primitiva, 
-#los almacene en una lista y los muestre por pantalla ordenados de menor a mayor.
-
-awarded = []
-for i in range(6):
-    awarded.append(int(input("Introduce un número ganador: ")))
-awarded.sort()
-print("Los números ganadores son " + str(awarded))
+lista=[]
+while True:
+    num=int(input("humano por favor ingresa un numero par (0 para terminar):"))
+    if num%2==0:
+        pass
+    else:
+        continue
+    if num==0:
+        break
+    lista.append(num)
